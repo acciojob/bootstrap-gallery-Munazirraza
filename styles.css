@@ -1,7 +1,10 @@
  #baguetteBox-overlay .full-image img{
     height: 70%;
 }
+.card{
+	border-radius:5px;
+}
 
-.gallery h2{
+.gallery h2,h6,p{
 	text-align: center;
 }
