@@ -1,9 +1,13 @@
-.col .card:hover {
-    width: 102%;
-    height: 102%;
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+/*  your css code here. If applicable */
+
+/*  your css code here. If applicable */
+ #baguetteBox-overlay .full-image img{
+    height: 70%;
+}
+.card{
+	border-radius:5px;
 }
 
-.row {
-    margin-bottom: 20px;
+.gallery h2,h6,p{
+	text-align: center;
 }
